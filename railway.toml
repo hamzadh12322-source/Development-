@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python wallet_store_bot.py"
